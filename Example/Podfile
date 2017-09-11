@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MessageTemp_Tests' do
+  pod 'MessageTemp', :path => '../'
+  
+  
+end
