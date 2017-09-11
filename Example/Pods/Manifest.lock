@@ -1,0 +1,16 @@
+PODS:
+  - MessageTemp (0.1.0)
+
+DEPENDENCIES:
+  - MessageTemp (from `../`)
+
+EXTERNAL SOURCES:
+  MessageTemp:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MessageTemp: 1a1acffba872eb70e62f7a02150e2f4b5c4f84f5
+
+PODFILE CHECKSUM: aaa81a7b0fd0dcbb57d56a055dfdd1dc11e8e9c9
+
+COCOAPODS: 1.2.1
